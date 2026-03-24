@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+*.local
+
+# Don't commit screenshots — PMs add their own
+public/images/current_state/
+# But do commit the placeholder manifest
+!public/images.json
